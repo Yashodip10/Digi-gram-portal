@@ -88,7 +88,7 @@ Update your database connection in includes/db.php.
 
 Start Apache and MySQL from XAMPP/WAMP.
 
-Open your browser and go to http://localhost/digi-grampanchayat/.
+Open your browser and go to http://localhost/digi-gram/.
 
 Use the default admin credentials to manage the system:
 
